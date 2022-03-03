@@ -1,4 +1,4 @@
-# OneBitCode-GalaxyExercisesGuide
+# OneBitCode-GalaxyGuide
 Simples exercício utilizando somente HTML do curso Programador Full Stack javaScript Profissional.
 
 ![image](https://user-images.githubusercontent.com/65515537/156616331-d090e7c4-7b9e-483e-beed-4c37f316d16e.png)
